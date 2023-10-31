@@ -1,7 +1,7 @@
 # Fitness360
 
 
-# Projetado para atender às necessidades de indivíduos que desejam atingir seus objetivos de condicionamento físico, o aplicativo oferece uma experiência completa de rastreamento, planejamento e orientação de treinamento. Abaixo, você encontrará uma visão geral do aplicativo e suas principais características.
+Projetado para atender às necessidades de indivíduos que desejam atingir seus objetivos de condicionamento físico, o aplicativo oferece uma experiência completa de rastreamento, planejamento e orientação de treinamento. Abaixo, você encontrará uma visão geral do aplicativo e suas principais características.
 
 # Visão Geral
 O Fitness360 é mais do que apenas um aplicativo de fitness comum. Ele é uma plataforma abrangente que oferece:
